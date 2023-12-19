@@ -146,7 +146,7 @@
    
   </section>
   <p class="mt-10 text-2xl text-[#1736F5] text-center w-full max-w-md m-auto pl-5 pr-5">
-    Educate a room by safely demonstrating the power of lightning
+    Educate a rom by safely demonstrating the power of lightning
   </p>
   <!-- PLACE ORDER -->
   <section class="w-full mt-20 text-center p-5 pt-10 pb-10 m-auto rounded bg-[#FEDD2B]/40">
